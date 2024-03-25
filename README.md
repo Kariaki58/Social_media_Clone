@@ -1,7 +1,7 @@
 # Social_media_Clone
 
 
-** This application was built with html css and javascript**
+**This application was built with html css and javascript**
 
 ```
 git clone <repo>
