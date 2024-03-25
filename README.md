@@ -1,4 +1,4 @@
-# Social_media_Clone
+# Satic Social_media_Clone
 
 
 **This application was built with html css and javascript**
