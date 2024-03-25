@@ -8,5 +8,6 @@ git clone <repo>
 cd <repo name>
 ```
 
-in vs code - run localstorage.
+in vs code - run liveserver.
+
 
